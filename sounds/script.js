@@ -6,3 +6,4 @@ function playMusic() {
 }
 
 button.addEventListener("click", playMusic);
+button.addEventListener("mouseover");
