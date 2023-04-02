@@ -26,4 +26,10 @@ img {
   justify-content: center;
   flex-direction: row;
   margin: 1em auto;
+  border: 1px solid black;
+}
+.animals-container img:hover {
+  padding: 10px;
+  transition: 0.5s;
+  cursor: pointer;
 }
